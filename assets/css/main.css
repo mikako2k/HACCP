@@ -999,7 +999,7 @@ section,
 }
 
 .bg-service-3:hover:before {
-  background-image: url('assets/img/LAB.jpg'); /* Path to the image */
+  background-image: url('../img/LAB.jpg'); /* Path to the image */
   background-size: cover;
   background-position: center;
   background-size: cover; /* Ensures the image covers the entire area */
